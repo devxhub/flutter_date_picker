@@ -1,8 +1,8 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_date_picker/flutter_date_picker.dart';
-import 'package:flutter_date_picker/src/widgets/date_scroll_view.dart';
+import 'package:flutter_scroll_date_picker/flutter_scroll_date_picker.dart';
+import 'package:flutter_scroll_date_picker/src/widgets/date_scroll_view.dart';
 
 import 'utils/get_monthly_date.dart';
 
