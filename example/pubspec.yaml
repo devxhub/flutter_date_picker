@@ -1,5 +1,5 @@
-name: flutter_date_picker_example
-description: Demonstrates how to use the flutter_date_picker plugin.
+name: flutter_scroll_date_picker_example
+description: Demonstrates how to use the flutter_scroll_date_picker plugin.
 version: 0.0.1
 
 # The following line prevents the package from being accidentally published to
@@ -12,9 +12,9 @@ dependencies:
   flutter:
     sdk: flutter
 
-  flutter_date_picker:
+  flutter_scroll_date_picker:
     # When depending on this package from a real application you should use:
-    #   flutter_date_picker: ^x.y.z
+    #   flutter_scroll_date_picker: ^x.y.z
     # See https://dart.dev/tools/pub/dependencies#version-constraints
     # The example app is bundled with the plugin so we use a path dependency on
     # the parent directory to use the current plugin's version.
